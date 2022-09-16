@@ -184,7 +184,6 @@ body.light {
 }
 
 .dark .sub-name {
-    font-family: 'Titillium Web', sans-serif;
     font-size: 1.2rem;
     opacity: .8;
     color: #fff;
@@ -526,7 +525,6 @@ body.light {
 }
 
 .light .sub-name {
-    font-family: 'Titillium Web', sans-serif;
     font-size: 1.2rem;
     opacity: .8;
     color: #fff;
